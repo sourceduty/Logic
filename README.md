@@ -1,2 +1,278 @@
 # Logic
-Every logic gate code for Python organized by Sourceduty.
+🔣 Every logic gate code for Python organized by Sourceduty.
+
+_____________________________________________________________
+
+AND logic gate code:
+
+The AND logic gate prints an output of 1 if both input operands are 1.
+
+Inputs:
+
+a= 1
+b= 0
+
+Operation:
+
+if a < 0 and b < 0:
+print("0")
+
+if a > 0 and b < 0:
+print("0")
+
+if a < 0 and b > 0:
+print("0")
+
+if a > 0 and b > 0:
+print("1")
+
+else:
+print("Error")
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Print  |
+|-----+-----+---------|
+|  0  |  0  |    0    |
+|  1  |  0  |    0    |
+|  0  |  1  |    0    |
+|  1  |  1  |    1    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+
+OR logic gate code:
+
+The OR logic gate prints an output of 1 if either input operands are 1. This gate also prints an output of 1 when both input operands are 1.
+
+Inputs:
+
+a= 1
+b= 0
+
+Operation:
+
+if a < 0 and b < 0:
+print("0")
+
+if a > 0 and b < 0:
+print("1")
+
+if a < 0 and b > 0:
+print("1")
+
+if a > 0 and b > 0:
+print("1")
+
+else:
+print("Error")
+
+
+Truth table: 
+
+
++-----+-----+---------+
+|  A  |  B  |  Print  |
+|-----+-----+---------|
+|  0  |  0  |    0    |
+|  1  |  0  |    1    |
+|  0  |  1  |    1    |
+|  1  |  1  |    1    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+NAND logic gate code:
+
+The AND logic gate prints an output of 0 if both input operands are 1.
+
+Inputs:
+
+a= 1
+b= 0
+
+Operation:
+
+if a < 0 and b < 0:
+print("1")
+
+if a > 0 and b < 0:
+print("1")
+
+if a < 0 and b > 0:
+print("1")
+
+if a > 0 and b > 0:
+print("0")
+
+else:
+print("Error")
+
+
+Truth table: 
+
+
++-----+-----+---------+
+|  A  |  B  |  Print  |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    1    |
+|  0  |  1  |    1    |
+|  1  |  1  |    0    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+NOR logic gate code:
+
+The OR logic gate prints an output of 1 if either input operands are 0. This gate also prints an output of 0 when both input operands are 1.
+
+Inputs:
+
+a= 1
+b= 0
+
+Operation:
+
+if a < 0 and b < 0:
+print("1")
+
+if a > 0 and b < 0:
+print("0")
+
+if a < 0 and b > 0:
+print("0")
+
+if a > 0 and b > 0:
+print("0")
+
+else:
+print("Error")
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Print  |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    0    |
+|  0  |  1  |    0    |
+|  1  |  1  |    0    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+XOR logic gate code:
+
+Inputs:
+
+a= 1
+b= 0
+
+Operation:
+
+if a < 0 and b < 0:
+print("0")
+
+if a > 0 and b < 0:
+print("1")
+
+if a < 0 and b > 0:
+print("1")
+
+if a > 0 and b > 0:
+print("0")
+
+else:
+print("Error")
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Print  |
+|-----+-----+---------|
+|  0  |  0  |    0    |
+|  1  |  0  |    1    |
+|  0  |  1  |    1    |
+|  1  |  1  |    0    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+
+XOR logic gate code:
+
+Inputs:
+
+a= 1
+b= 0
+
+Operation:
+
+if a < 0 and b < 0:
+print("1")
+
+if a > 0 and b < 0:
+print("0")
+
+if a < 0 and b > 0:
+print("0")
+
+if a > 0 and b > 0:
+print("1")
+
+else:
+print("Error")
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Print  |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    0    |
+|  0  |  1  |    0    |
+|  1  |  1  |    1    |
++-----+-----+---------+
+
+_____________________________________________________________
+
+Inverter logic gate:
+
+
+Inputs:
+
+a= 1
+a= 0
+
+Operation:
+
+if a < 0:
+print("1")
+
+if a > 0:
+print("0")
+
+else:
+print("Error")
+
+
+Truth table: 
+
++-----+-----+---------+
+|  A  |  B  |  Print  |
+|-----+-----+---------|
+|  0  |  0  |    1    |
+|  1  |  0  |    0    |
++-----+-----+---------+
+
+
+#
+
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
