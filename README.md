@@ -233,7 +233,7 @@ Truth table:
 _____________________________________________________________
 
 
-XOR logic gate code:
+XNOR logic gate code:
 
 Operation:
 ```
