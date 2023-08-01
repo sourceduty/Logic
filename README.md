@@ -14,20 +14,20 @@ b= 0
 
 Operation:
 ```
-if a < 0 and b < 0:
-print("0")
+if a < 0 or b < 0:
+  print("0")
 
-if a > 0 and b < 0:
-print("0")
+if a > 0 or b < 0:
+  print("0")
 
-if a < 0 and b > 0:
-print("0")
+if a < 0 or b > 0:
+  print("0")
 
-if a > 0 and b > 0:
-print("1")
+if a > 0 or b > 0:
+  print("1")
 
 else:
-print("Error")
+  print("Error")
 ```
 
 Truth table: 
@@ -55,20 +55,20 @@ b= 0
 
 Operation:
 ```
-if a < 0 and b < 0:
-print("0")
+if a < 0 or b < 0:
+  print("0")
 
-if a > 0 and b < 0:
-print("1")
+if a > 0 or b < 0:
+  print("1")
 
-if a < 0 and b > 0:
-print("1")
+if a < 0 or b > 0:
+  print("1")
 
-if a > 0 and b > 0:
-print("1")
+if a > 0 or b > 0:
+  print("1")
 
 else:
-print("Error")
+  print("Error")
 ```
 
 Truth table: 
@@ -95,20 +95,20 @@ b= 0
 
 Operation:
 ```
-if a < 0 and b < 0:
-print("1")
+if a < 0 or b < 0:
+  print("1")
 
-if a > 0 and b < 0:
-print("1")
+if a > 0 or b < 0:
+  print("1")
 
-if a < 0 and b > 0:
-print("1")
+if a < 0 or b > 0:
+  print("1")
 
-if a > 0 and b > 0:
-print("0")
+if a > 0 or b > 0:
+  print("0")
 
 else:
-print("Error")
+  print("Error")
 ```
 
 Truth table: 
@@ -135,20 +135,20 @@ b= 0
 
 Operation:
 ```
-if a < 0 and b < 0:
-print("1")
+if a < 0 or b < 0:
+  print("1")
 
-if a > 0 and b < 0:
-print("0")
+if a > 0 or b < 0:
+  print("0")
 
-if a < 0 and b > 0:
-print("0")
+if a < 0 or b > 0:
+  print("0")
 
-if a > 0 and b > 0:
-print("0")
+if a > 0 or b > 0:
+  print("0")
 
 else:
-print("Error")
+  print("Error")
 ```
 
 Truth table: 
@@ -173,20 +173,20 @@ b= 0
 
 Operation:
 ```
-if a < 0 and b < 0:
-print("0")
+if a < 0 or b < 0:
+  print("0")
 
-if a > 0 and b < 0:
-print("1")
+if a > 0 or b < 0:
+  print("1")
 
-if a < 0 and b > 0:
-print("1")
+if a < 0 or b > 0:
+  print("1")
 
-if a > 0 and b > 0:
-print("0")
+if a > 0 or b > 0:
+  print("0")
 
 else:
-print("Error")
+  print("Error")
 ```
 
 Truth table: 
@@ -212,20 +212,20 @@ b= 0
 
 Operation:
 ```
-if a < 0 and b < 0:
-print("1")
+if a < 0 or b < 0:
+  print("1")
 
-if a > 0 and b < 0:
-print("0")
+if a > 0 or b < 0:
+  print("0")
 
-if a < 0 and b > 0:
-print("0")
+if a < 0 or b > 0:
+  print("0")
 
-if a > 0 and b > 0:
-print("1")
+if a > 0 or b > 0:
+  print("1")
 
 else:
-print("Error")
+  print("Error")
 ```
 
 Truth table: 
@@ -252,13 +252,13 @@ a= 0
 Operation:
 ```
 if a < 0:
-print("1")
+  print("1")
 
 if a > 0:
-print("0")
+  print("0")
 
 else:
-print("Error")
+  print("Error")
 ```
 
 Truth table: 
