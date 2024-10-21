@@ -29,6 +29,13 @@ When comparing this concept to fuzzy logic, there are similarities but also crit
 In contrast, the third binary state "A" is not about degrees of truth or fuzzy transitions; it represents a discrete state specifically used to manage power, allowing systems to be in a low-power or ready-to-act condition without engaging full binary logic (0 or 1). Unlike fuzzy logic, which deals with approximate values, "A" would represent a clear, defined voltage state with a specific purpose—managing energy efficiency—while remaining distinct from the traditional 0 and 1 used for computation. This makes it a novel concept that introduces practical energy management to digital systems, as opposed to the flexible but computation-heavy nature of fuzzy logic.
 
 #
+### Ternary Computing
+
+When comparing the introduction of a third binary state "A"—specifically designed for managing standby or low-power states—to ternary computing, there are both similarities and differences. Ternary computing involves using three distinct states for computation: typically -1, 0, and 1, or some other set of values. These states are used to represent data and perform logic operations, giving ternary systems a computational advantage in some contexts by allowing more complex data representation and potentially more efficient calculations compared to traditional binary systems. However, ternary computing is primarily focused on expanding the computational capacity of the system by introducing a third state for data processing, whereas the third binary state "A" is not used for computation, but rather for optimizing power efficiency.
+
+In contrast, the concept of "A" in a binary system doesn’t expand the logical or computational framework but rather serves as a power management tool. The state "A" is introduced not to carry or process data like 0 or 1, but to allow the system to conserve energy in a ready or standby mode without fully committing to an active or inactive state. While ternary computing redefines logic operations by using a three-state system for computation, "A" does not change the core binary computation but enhances system performance in terms of energy efficiency and quick recovery from low-power states. Therefore, while both concepts add a third state, ternary computing does so for more complex data representation and processing, whereas "A" is a power optimization feature that complements the binary logic framework without altering its fundamental structure.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
