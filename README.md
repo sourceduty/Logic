@@ -34,4 +34,4 @@ Also, [Theoretical Logic](https://chatgpt.com/g/g-6802bbafab448191aa7909756305c2
 <br>
 [Computational Logic](https://chatgpt.com/g/g-JTuo4xfRG-computational-logic)
 <br>
-[Bniary Logic](https://chatgpt.com/g/g-6776795e9eb881919101d3788e373e97-binary-logic)
+[Binary Logic](https://chatgpt.com/g/g-6776795e9eb881919101d3788e373e97-binary-logic)
