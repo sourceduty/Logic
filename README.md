@@ -16,7 +16,6 @@ Also, [Theoretical Logic](https://chatgpt.com/g/g-6802bbafab448191aa7909756305c2
 
 #
 
-
 ![FlopV](https://github.com/user-attachments/assets/e1e20ac9-1251-46f0-aca1-6bb65e565b09)
 
 [FlopV](https://chatgpt.com/g/g-683d407301fc81918f38270a071248b7-flopv) is a conceptual model of a digital logic component derived from the foundational principles of a flip-flop. At its core, it operates on a Boolean expression defined as Q(t+1) = A XOR B, where Q(t+1) represents the output at the next clock cycle, and A and B are binary input signals. The XOR (exclusive OR) operation ensures that the output toggles only when the inputs differ—that is, when one is high and the other is low. If both inputs are equal (either 0 and 0 or 1 and 1), the output remains low. This behavior forms the essence of state transitions in synchronous logic circuits, where changes in state are triggered only on clock edges or specific enabling conditions, allowing precise control of data flow.
