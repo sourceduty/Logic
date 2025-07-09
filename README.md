@@ -27,6 +27,8 @@ Also, [Theoretical Logic](https://chatgpt.com/g/g-6802bbafab448191aa7909756305c2
 [Wood Logic](https://chatgpt.com/g/g-67e49e35e0c881919922c11452d76fe2-wood-logic) uses mechanical systems made primarily of wood to perform logical operations, similar to how electronic circuits operate in computers. These systems often employ physical components such as gears, levers, cams, ratchets, and linkages to carry out operations like AND/OR gates, counters, or flip-flops. In a wooden logic machine, movements of physical objects or marbles are used to represent binary states (on/off), and the interactions between these elements create mechanical equivalents of logical functions. Wood logic is a fascinating blend of craftsmanship, engineering, and logic design, often used for educational purposes or as artistic, kinetic sculptures that demonstrate complex processes through simple, tangible mechanisms.
 
 #
+![Mechanical Logic](https://github.com/user-attachments/assets/c2020c4d-c2f6-47e4-8df9-75e35eb0d6cb)
+#
 
 [Logic Gauge](https://github.com/sourceduty/Logic_Gauge)
 <br>
