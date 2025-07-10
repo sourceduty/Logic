@@ -44,8 +44,6 @@ Mechanical logic gates are conceptial physical systems designed to perform logic
 <br>
 [State-Logic Polarity](https://chatgpt.com/g/g-67b4a46ac9208191ae7850560fbefefa-state-logic-polarity)
 <br>
-[Computational Logic](https://chatgpt.com/g/g-JTuo4xfRG-computational-logic)
-<br>
 [Binary Logic](https://chatgpt.com/g/g-6776795e9eb881919101d3788e373e97-binary-logic)
 <br>
 [GradLog](https://github.com/sourceduty/GradLog)
